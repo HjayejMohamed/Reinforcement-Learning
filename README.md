@@ -26,10 +26,15 @@ STEPS:
        5-Sample random batch from replay memory.
        
        6-Preprocess states from batch.
+       
        7-Pass batch of preprocessed states to policy network.
+       
        8-Calculate loss between output Q-values and target Q-values.
+       
               *Requires a pass to the target network for the next state
+              
        9-Gradient descent updates weights in the policy network to minimize loss.
+       
               *After  time steps, weights in the target network are updated to the weights in the policy network.
         
         
