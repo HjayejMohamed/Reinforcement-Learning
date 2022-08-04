@@ -2,7 +2,7 @@
 
 STEPS:
 
-1-Initialize replay memory capacity.
+1-Initialize replay memory capacity.\n
 2-Initialize the policy network with random weights.
 3-Clone the policy network, and call it the target network.
 4-For each episode:
