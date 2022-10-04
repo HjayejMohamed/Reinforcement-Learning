@@ -9,6 +9,7 @@ STEPS:
 3-Clone the policy network, and call it the target network.
 
 4-For each episode:
+
   4.1-Initialize the starting state.
   
   4.2-For each time step:
