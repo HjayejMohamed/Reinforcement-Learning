@@ -1,5 +1,8 @@
 # Reinforcement-Learning
 
+![image](https://user-images.githubusercontent.com/93601760/213064404-287abede-2780-452f-ab5b-f46e7dbcca8b.png)
+
+
 STEPS:
 
 1-Initialize replay memory capacity.
